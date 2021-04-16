@@ -1,0 +1,6 @@
+C:\Users\lotus\source\repos\Проекты\OOP-Mentoring\Lesson10_Task2\Woker\bin\Debug\Woker.dll
+C:\Users\lotus\source\repos\Проекты\OOP-Mentoring\Lesson10_Task2\Woker\bin\Debug\Woker.pdb
+C:\Users\lotus\source\repos\Проекты\OOP-Mentoring\Lesson10_Task2\Woker\obj\Debug\Woker_Initialization.csprojAssemblyReference.cache
+C:\Users\lotus\source\repos\Проекты\OOP-Mentoring\Lesson10_Task2\Woker\obj\Debug\Woker_Initialization.csproj.CoreCompileInputs.cache
+C:\Users\lotus\source\repos\Проекты\OOP-Mentoring\Lesson10_Task2\Woker\obj\Debug\Woker.dll
+C:\Users\lotus\source\repos\Проекты\OOP-Mentoring\Lesson10_Task2\Woker\obj\Debug\Woker.pdb

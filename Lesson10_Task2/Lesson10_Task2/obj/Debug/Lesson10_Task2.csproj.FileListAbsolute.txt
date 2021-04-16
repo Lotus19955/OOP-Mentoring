@@ -1,0 +1,10 @@
+C:\Users\lotus\source\repos\Проекты\OOP-Mentoring\Lesson10_Task2\Lesson10_Task2\bin\Debug\Lesson10_Task2.exe.config
+C:\Users\lotus\source\repos\Проекты\OOP-Mentoring\Lesson10_Task2\Lesson10_Task2\bin\Debug\Lesson10_Task2.exe
+C:\Users\lotus\source\repos\Проекты\OOP-Mentoring\Lesson10_Task2\Lesson10_Task2\bin\Debug\Lesson10_Task2.pdb
+C:\Users\lotus\source\repos\Проекты\OOP-Mentoring\Lesson10_Task2\Lesson10_Task2\bin\Debug\Woker.dll
+C:\Users\lotus\source\repos\Проекты\OOP-Mentoring\Lesson10_Task2\Lesson10_Task2\bin\Debug\Woker.pdb
+C:\Users\lotus\source\repos\Проекты\OOP-Mentoring\Lesson10_Task2\Lesson10_Task2\obj\Debug\Lesson10_Task2.csprojAssemblyReference.cache
+C:\Users\lotus\source\repos\Проекты\OOP-Mentoring\Lesson10_Task2\Lesson10_Task2\obj\Debug\Lesson10_Task2.csproj.CoreCompileInputs.cache
+C:\Users\lotus\source\repos\Проекты\OOP-Mentoring\Lesson10_Task2\Lesson10_Task2\obj\Debug\Lesson10_Task2.csproj.CopyComplete
+C:\Users\lotus\source\repos\Проекты\OOP-Mentoring\Lesson10_Task2\Lesson10_Task2\obj\Debug\Lesson10_Task2.exe
+C:\Users\lotus\source\repos\Проекты\OOP-Mentoring\Lesson10_Task2\Lesson10_Task2\obj\Debug\Lesson10_Task2.pdb
