@@ -11,16 +11,16 @@ namespace Lesson10_Task1
     {
         static void Main(string[] args)
         {
-            User person = new User();
-
-            person.name = "Andrei";
-            person.surname = "Termalovich";
-            person.age = 19;
-            person.companyNumber = 2;
-
-            person.Print();
+            User person = new User("Andrei", "Yermalovich", Companies.Apple, 16);
+            User.DisplayUserName(person);
+            User.DisplayWorkPlace(person);
+            User.DisplayAge(person);
 
             Console.ReadLine();
         }
     }
 }
+             
+    
+    
+

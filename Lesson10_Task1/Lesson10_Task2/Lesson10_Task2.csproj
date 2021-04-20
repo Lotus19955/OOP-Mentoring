@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3C5A5399-A23C-4721-BA55-3DE9D8EC65B8}</ProjectGuid>
+    <ProjectGuid>{EA9C1431-1F29-4E1F-B843-6AEB043EEAFA}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Lesson10_Task2</RootNamespace>
     <AssemblyName>Lesson10_Task2</AssemblyName>
@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Woker\Woker_Initialization.csproj">
-      <Project>{309869b4-b97f-407e-82f6-081b41d28899}</Project>
-      <Name>Woker_Initialization</Name>
+    <ProjectReference Include="..\Person_Initialization\Person_Initialization.csproj">
+      <Project>{a5982520-93ad-42e8-a043-90a04840aebc}</Project>
+      <Name>Person_Initialization</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

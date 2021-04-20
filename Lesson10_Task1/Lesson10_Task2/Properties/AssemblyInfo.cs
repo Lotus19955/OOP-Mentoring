@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Woker")]
+[assembly: AssemblyTitle("Lesson10_Task2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Woker")]
+[assembly: AssemblyProduct("Lesson10_Task2")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("309869b4-b97f-407e-82f6-081b41d28899")]
+[assembly: Guid("ea9c1431-1f29-4e1f-b843-6aeb043eeafa")]
 
 // Version information for an assembly consists of the following four values:
 //
