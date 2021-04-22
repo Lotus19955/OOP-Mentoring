@@ -12,5 +12,6 @@ namespace Person_Initialization
         Google,
         Amazon,
         Apple,
+        NoCompany,
     }
 }
