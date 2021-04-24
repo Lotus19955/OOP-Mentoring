@@ -24,6 +24,7 @@ namespace Lesson10_Task2
 
             Console.ReadLine();
         }
+
         /// <summary>
         /// Remove person from array by compane name
         /// </summary>

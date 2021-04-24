@@ -11,7 +11,7 @@ namespace Lesson10_Task1
     {
         static void Main(string[] args)
         {
-            User person = null;
+            User person;
             do
             {
                 person = CreateUser();
@@ -41,6 +41,7 @@ namespace Lesson10_Task1
                 Console.WriteLine($"{item} - {companyCounter}");
                 companyCounter++;
             }
+
             Console.Write("Enter number of company: ");
             string strCompany = Console.ReadLine();
             int company;
@@ -67,27 +68,13 @@ namespace Lesson10_Task1
 
             Console.Write("Enter your age: ");
             int age = int.Parse(Console.ReadLine());
-            int counter = 3;
-            while (age < 18) 
-            {
-                Console.WriteLine("Age must be not less than 18");
-                Console.WriteLine($"{counter} attempts left");
-                Console.WriteLine();
-                Console.Write("Enter your age: ");
-                age = int.Parse(Console.ReadLine());
-                counter--;
-                if (age > 18 || counter <= 0)
-                {
-                    break;
-                }
-            }
 
             User person = new User(name, surname, companyName, age);
 
             if (person.Age == -1)
             {
                 Console.WriteLine();
-                Console.WriteLine("Age must be not less than 18");
+                Console.WriteLine("Age must be not less than 18, create 'User' again");
                 return null;
             }
             else

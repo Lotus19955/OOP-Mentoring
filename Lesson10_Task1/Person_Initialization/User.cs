@@ -41,7 +41,6 @@ namespace Person_Initialization
             this.Surname = surname;
             this.CompanyName = companyName;
             this.Age = age;
-
         }
         /// <summary>
         /// Display to console person 'name' and 'surname'
